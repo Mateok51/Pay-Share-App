@@ -18,6 +18,8 @@ The links to the screenshots are:
 * [Screenshot 3](https://ibb.co/xmHw1PP)
 * [Screenshot 4](https://ibb.co/ZzZNVbb)
 * [Screenshot 5](https://ibb.co/6Wz9RJM)
+* [Screenshot 6](https://ibb.co/tDVMDth)
+* [Screenshot 7](https://ibb.co/wR1ZBj8)
 
 ## Tehnologies used
 For the create of the app I have used:
