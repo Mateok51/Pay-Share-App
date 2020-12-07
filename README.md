@@ -35,3 +35,5 @@ After downloading the project, all the packages should be installed with the ter
 ```npm
 npm install
 ```
+
+To properly test the app, the database URL in the store files should be changed to your own database URL.
